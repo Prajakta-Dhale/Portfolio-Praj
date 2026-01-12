@@ -7,7 +7,7 @@ export const Contact = () => {
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
         <h2>Let’s build the future together</h2>
-        <p>Whether you have a question or just want to talk about <strong>React, Node, or Design Systems</strong>—my inbox is always open.</p>
+        <p>Whether you have a question or just want to talk about <strong style={{color:'white'}}>React, Node, or Design Systems</strong> my inbox is always open.</p>
       </div>
       
       <div className={styles.contactLinks}>
@@ -23,7 +23,7 @@ export const Contact = () => {
           <img src={getImageUrl("contact/linkedinIcon.png")} alt="LinkedIn icon" />
           <div className={styles.linkText}>
             <span>Connect</span>
-            <p>linkedin.com/prajakta</p>
+            <p>https://www.linkedin.com/in/prajakta-dhale/</p>
           </div>
         </a>
 
@@ -31,7 +31,7 @@ export const Contact = () => {
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
           <div className={styles.linkText}>
             <span>View Source</span>
-            <p>github.com/prajakta</p>
+            <p>https://github.com/Prajakta-Dhale</p>
           </div>
         </a>
       </div>

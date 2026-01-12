@@ -1,12 +1,9 @@
 import React from "react";
 import styles from "./ProjectCard.module.css";
-
-// IMPORT MANUALLY HERE (Repeat for other projects as needed)
 import project from "../../assets/projects/project.png";
 import healthcare from "../../assets/projects/healthcare.png";
 
 
-// Simple mapper to ensure the right image is used
 const projects = {
   "project.png": project,
 };

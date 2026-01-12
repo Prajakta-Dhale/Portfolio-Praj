@@ -1,7 +1,7 @@
 .container {
   color: white;
   margin-top: 100px;
-  background-color: #94327f; /* Deep dark blue */
+  background-color: #94327f;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -19,7 +19,7 @@
 
 .text p {
   font-size: 20px;
-  color: #94a3b8;
+  color: #bec9d8;
   max-width: 450px;
 }
 
