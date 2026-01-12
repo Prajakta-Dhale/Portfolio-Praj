@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Scrubs & Stories",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML","Bootstrap",  "CSS", "JS"],
+    "demo": "https://prajakta-dhale.github.io/Healthcare-Web/",
+    "source": "https://github.com/Prajakta-Dhale/Healthcare-Web.git"
+  },
+  {
+    "title": "Zomato",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "Bootstrap", "CSS", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML","CSS", "JS", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

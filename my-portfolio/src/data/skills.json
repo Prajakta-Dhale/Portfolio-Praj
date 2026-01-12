@@ -1,0 +1,10 @@
+[
+  {
+    "title": "React",
+    "imageSrc": "react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "nodejs.png"
+  }
+]
